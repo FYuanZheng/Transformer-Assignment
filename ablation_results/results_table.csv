@@ -1,0 +1,9 @@
+Experiment,Layers,Heads,Parameters (M),Best Valid Loss,Best Valid PPL,Final Valid Loss,Final Valid PPL
+"Baseline (8 layers, 4 heads)",8,4,102.87,3.8780,48.33,3.8780,48.33
+"4 layers, 4 heads",4,4,90.26,3.9331,51.07,3.9331,51.07
+"6 layers, 4 heads",6,4,96.57,3.8782,48.34,3.8782,48.34
+"10 layers, 4 heads",10,4,109.18,3.8576,47.35,3.8576,47.35
+"12 layers, 4 heads",12,4,115.48,3.8703,47.96,3.8703,47.96
+"8 layers, 2 heads",8,2,102.87,3.8876,48.79,3.8876,48.79
+"8 layers, 8 heads",8,8,102.87,3.8613,47.53,3.8613,47.53
+"8 layers, 16 heads",8,16,102.87,3.8498,46.98,3.8498,46.98

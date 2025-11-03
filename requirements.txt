@@ -1,0 +1,20 @@
+# PyTorch (根据你的CUDA版本选择)
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Transformers (用于Qwen tokenizer)
+transformers>=4.30.0
+
+# 进度条显示
+tqdm>=4.65.0
+
+# 绘图
+matplotlib>=3.7.0
+
+# 其他依赖
+numpy>=1.24.0
+
+# 可选：如果要用其他功能
+# sentencepiece>=0.1.99  # 某些tokenizer需要
+# accelerate>=0.20.0     # 加速训练
