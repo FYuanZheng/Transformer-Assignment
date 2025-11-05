@@ -19,6 +19,7 @@
 ├── model.py           # Transformer模型定义
 ├── data.py            # 数据加载和预处理
 ├── train.py           # 训练主程序
+├── ablation.py        # 消融实验
 ├── requirements.txt   # 依赖包列表
 └── wikitext-2/        # 数据集目录
     ├── wiki.train.tokens (或 .txt)
